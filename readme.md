@@ -6,7 +6,7 @@ A system capable of detecting masks developed using YOLOv3 Darknet. This system 
 [Kaggle Dataset](https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format)
 
 ## Model Training File:
-> yolov3-mask-detection-final.ipynb
+> yolov3-mask-detection-final1.ipynb
 
 ## How to run?
 1. Install Python 3.8.6 from [Python3.8](https://www.python.org/downloads/release/python-386/)
