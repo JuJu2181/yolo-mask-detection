@@ -37,4 +37,7 @@ py test_on_video.py
 ![Output2](op2.jpg)
 
 ### Detections in Video
-TBA
+
+https://user-images.githubusercontent.com/43902648/182372223-fd613893-73d2-4d94-9a31-b6582fccccc4.mp4
+
+
