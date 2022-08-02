@@ -38,6 +38,6 @@ py test_on_video.py
 
 ### Detections in Video
 
-https://user-images.githubusercontent.com/43902648/182372223-fd613893-73d2-4d94-9a31-b6582fccccc4.mp4
+https://user-images.githubusercontent.com/43902648/182372652-7ca867ba-4217-4053-8df3-d825c710cc53.mp4
 
 
