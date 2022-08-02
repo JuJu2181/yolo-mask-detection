@@ -39,6 +39,22 @@ py test_on_video.py
 ### Detections in Video
 [Detection Video](https://drive.google.com/file/d/13hKU4sMlngbBArOUJdZn660-p6dHr-D6/view?usp=sharing)
 
-https://user-images.githubusercontent.com/43902648/182372652-7ca867ba-4217-4053-8df3-d825c710cc53.mp4
+https://user-images.githubusercontent.com/43902648/182381056-4422118a-e2df-46e8-8820-ef2f0392c6f5.mp4
+
+### Detections in Live Stream from Webcam 
+https://user-images.githubusercontent.com/43902648/182382750-1fef669c-bc53-433e-b198-726b9dba64db.mp4
+
+P.S: FPS was a bit low so detections were lagging in live video stream
+
+### Acknowledgement
+Special Thanks to [Siddhant Sharma](https://github.com/Siddhant128-bit), [Abhinandan Shrestha](https://github.com/abhinandanshrestha), [Nitess Kumar Das](https://github.com/Niteshkumardas)
+
+
+
+
+
+
+
+
 
 
