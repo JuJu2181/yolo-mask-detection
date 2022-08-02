@@ -26,7 +26,7 @@ py test_on_photo.py
 
 5. To detect in live video:
 ```
-py test_on_video.py
+py test_on_live_video.py
 ```
 
 ## Outputs
@@ -48,13 +48,3 @@ P.S: FPS was a bit low so detections were lagging in live video stream
 
 ### Acknowledgement
 Special Thanks to [Siddhant Sharma](https://github.com/Siddhant128-bit), [Abhinandan Shrestha](https://github.com/abhinandanshrestha), [Nitess Kumar Das](https://github.com/Niteshkumardas)
-
-
-
-
-
-
-
-
-
-
